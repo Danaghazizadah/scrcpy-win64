@@ -7,5 +7,4 @@
     <span data-view-component="true" class="Truncate-text"></span>
 </a></div>      <div data-view-component="true" class="d-flex flex-auto flex-justify-end col-md-4 ml-3 ml-md-0 mt-1 mt-md-0 pl-1 pl-md-0">
           <span style="white-space: nowrap;" data-view-component="true" class="color-fg-muted text-sm-left flex-auto ml-md-3">5.65 MB</span>
-          <span style="white-space: nowrap;" data-view-component="true" class="color-fg-muted text-right flex-shrink-0 flex-grow-0 ml-3"><relative-time datetime="2024-03-02T23:08:37Z" class="no-wrap" prefix="" title="Mar 3, 2024, 2:38 AM GMT+3:30">2024-03-02T23:08:37Z</relative-time></span>
-</div></li>
+          <span style="white-space: nowrap;" data-view-component="true" class="color-fg-muted text-right flex-shrink-0 flex-grow-0 ml-3"><relative-time datetime="2024-03-02T23:08:37Z" 
